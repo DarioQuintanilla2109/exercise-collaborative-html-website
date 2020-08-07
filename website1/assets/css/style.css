@@ -1,3 +1,25 @@
 body{
     background: #BDBDBD;
 }
+
+body{
+    font-family: 'Bitter', serif;
+}
+
+.first-heading{
+    margin: 150px;
+}
+
+img{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+
+.jumbotron{
+    display: flex;
+}
+
+#gray{
+    color: gray;
+}
